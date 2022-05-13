@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(172, 233, 239);
+}
+.copy_right_footer {
+  position: fixed;
+  color: #ffffff;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(2, 45, 64);
+  line-height: 3;
+  text-align: center;
+  font-family: "bold";
+}
+ol h5 {
+  background: rgb(246, 155, 243) ;
+  padding: 13px;
+  border-radius: 20px;
+}
+span {
+  color: rgb(10, 87, 84);
+  font-size: 16px;
+}
+li img {
+  border-radius: 20px;
+}
+.bob {
+  background: rgb(119, 157, 183);
+  padding: 30px;
+  border-radius: 20px;
+  margin-top: 50px;
+  box-shadow: 5px 5px 18 rgb(76, 9, 89);
+}
+b {
+  color: rgb(28, 15, 81);
+}
+
+.bob3 {
+  text-align: center;
+  color: rgb(79, 21, 87);
+}
+.result {
+  box-shadow: 5px 5px 18px;
+  letter-spacing: 2px;
+  background: rgb(228, 180, 92);
+  border-radius: 20px;
+  margin-top: 30px;
+  padding: 20px;
+  border: 2px solid rgb(16, 5, 71);
+}
